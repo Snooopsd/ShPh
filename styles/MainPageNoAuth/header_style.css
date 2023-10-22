@@ -88,12 +88,9 @@ header {
     display: none;
     flex-direction: column;
     cursor: pointer;
-<<<<<<< HEAD
     position: absolute;
     right: 30px;
     align-items: center;
-=======
->>>>>>> 3c706962eecc8cd891e839af9c48ace34b369e2f
 }
 
 .bar {
@@ -101,11 +98,8 @@ header {
     height: 3px;
     background-color: #fff;
     margin: 3px 0;
-<<<<<<< HEAD
     position: relative;
     max-width: 100px;
-=======
->>>>>>> 3c706962eecc8cd891e839af9c48ace34b369e2f
 }
 
 .menu {
@@ -113,7 +107,6 @@ header {
     gap: 10px;
 }
 
-<<<<<<< HEAD
 nav ul li button {
     height: 50px;
     border-radius: 10px;
@@ -169,18 +162,12 @@ nav ul li {
     justify-content: center;
 }
 
-=======
->>>>>>> 3c706962eecc8cd891e839af9c48ace34b369e2f
 @media (max-width: 768px) {
     .menu {
         display: none;
         flex-direction: column;
         background-color: rgba(3, 29, 24, 0.75);
-<<<<<<< HEAD
         padding: 10px 20px;
-=======
-        padding: 10px, 20px;
->>>>>>> 3c706962eecc8cd891e839af9c48ace34b369e2f
     }
 
     .menu.active {
